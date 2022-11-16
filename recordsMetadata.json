@@ -1,10 +1,12 @@
 [
   {
     "id": "4WF44iYsOGXpni0TaGR1s3",
-    "name": "Fantasy Music for Sleep"
+    "name": "Fantasy Music for Sleep",
+    "rfid": "TEST"
   },
   {
     "id": "5xemlUITLjwZM3wpJcObTx",
-    "name": "Dark Cottagecore"
+    "name": "Dark Cottagecore",
+    "rfid": "TEST2"
   }
 ]
